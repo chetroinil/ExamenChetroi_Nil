@@ -1,0 +1,2 @@
+Biletul Nr.20
+Creați un nou repozitoriu pe GitHub, numit ExamenNume_Prenume. Clonează acest repozitoriu pe calculatorul local. Adaugă un fișier README.md care să conțină descrierea proiectului și numărul biletului. Adaugă un fișier .gitignore care să ignore toate fișierele cu extensia .exe. Creează o ramură nouă numită "development". Adaugă două fișiere HTML în directorul principal, numite "index.html" și "about.html". Împingeți modificările la ramura "development" pe GitHub. Concatenați ramura "development" cu ramura principală "main" folosind Git CL
